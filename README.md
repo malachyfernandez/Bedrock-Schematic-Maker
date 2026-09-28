@@ -1,3 +1,5 @@
+![Bedrock Schematic Maker](cover.jpg)
+
 # Bedrock Schematic Maker
 
 A powerful web-based tool for creating Minecraft Bedrock Edition schematics with an intuitive interface and smart shape generation.
